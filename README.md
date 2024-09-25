@@ -1,6 +1,6 @@
 ### <h1 align="center">💜 Hello, my name is Giovana Gonçalves
-
 __________________________________________________________________________________________________________
+
  <li> Software developer sharing about my journey and learnings in technology.<br/>
  <li> Studying Computer Science at Faculdade de Americana (FAM).<br/>
  <li> Deepening my knowledge in **Full Stack Development**.<br/>
