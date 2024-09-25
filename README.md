@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Giovana Gonçalves
+### 💜 Hello, my name is Giovana Gonçalves
 
   👩‍💻 Software developer sharing about my journey and learnings in technology.<br/>
   👩‍🎓 Studying Computer Science at Faculdade de Americana (FAM)..<br/>
