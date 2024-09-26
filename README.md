@@ -3,7 +3,7 @@ ________________________________________________________________________________
 
  <li> 👩‍💻 Software developer sharing about my journey and learnings in technology.<br/>
  <li> 👩‍🎓 Studying Computer Science at Faculdade de Americana (FAM).<br/>
- <li> 🔗 Deepening my knowledge in 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 <br/>
+ <li> 🔗 Deepening my knowledge in 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫 <br/>
 
 ![30a03741515fe8103384dc219cf51cef](https://github.com/user-attachments/assets/3e973a7f-49ca-438c-91ba-56e0042d8431)
 
