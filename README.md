@@ -1,9 +1,9 @@
 ### <h1 align="center">💜 Hello, my name is Giovana Gonçalves
 __________________________________________________________________________________________________________
 
- <li> 👩‍💻 Software developer sharing about my journey and learnings in technology.<br/>
- <li> 👩‍🎓 Studying Computer Science at Faculdade de Americana (FAM).<br/>
- <li> 🔗 Deepening my knowledge in 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫 <br/>
+ <li> ➲ 𝐏𝐫𝐨𝐣𝐞𝐭𝐨𝐬 𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐜𝐨𝐬 𝐞𝐦 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐚𝐭𝐢𝐨𝐧: Development of systems or applications as part of university studies, such as management systems, applications for solving specific problems. <br/>
+ <li> ➲ Studying Computer Science at Faculdade de Americana (FAM).<br/>
+ <li> ➲ Deepening my knowledge in 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫 <br/>
 
 ![30a03741515fe8103384dc219cf51cef](https://i.pinimg.com/736x/7c/f8/9b/7cf89b9c491319d14bda964a2b19a87e.jpg)
 
