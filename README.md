@@ -10,10 +10,10 @@ ________________________________________________________________________________
 
 <h3> 🌺 About Me </h3>
         <p>
-       I am a software developer passionate about solving complex problems and creating scalable solutions. My journey in technology has given me a strong connection to both software and hardware, and I love exploring new technologies to enhance my projects.
+       Hello! My name is Giovana, I am 18 years old and I am currently studying Computer Science at Faculdade de Americana. I have a great passion for technology, both in the software and hardware areas. Throughout my academic journey, I developed an interest in programming, and in my free time, I enjoy exploring new technologies, creating applications and games, and keeping up to date with the latest innovations in the sector.
         </p>
         <p>
-            I enjoy listening to music, playing and exploring new games, and when I'm not coding, you can find me binge-watching my favorite series or trying out new games. Always ready to tackle the next challenge.
+           I am always looking to learn and improve my skills, and I aim to apply my knowledge to projects that can make a difference in the world of technology. Outside of academia, I enjoy listening to music, playing games, and continuing to challenge myself with new programming projects.
         </p>
     </div>
 </div>
