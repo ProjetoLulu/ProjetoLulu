@@ -5,7 +5,7 @@ ________________________________________________________________________________
  <li> 👩‍🎓 Studying Computer Science at Faculdade de Americana (FAM).<br/>
  <li> 🔗 Deepening my knowledge in 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫 <br/>
 
-![30a03741515fe8103384dc219cf51cef](https://github.com/user-attachments/assets/3e973a7f-49ca-438c-91ba-56e0042d8431)
+![30a03741515fe8103384dc219cf51cef](https://i.pinimg.com/736x/7c/f8/9b/7cf89b9c491319d14bda964a2b19a87e.jpg)
 
 
 <h3> 🌺 About Me </h3>
